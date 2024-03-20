@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- onclick -->
+
+    <button id="btn" onclick="clickMe()">click me </button>
+
+
+    <!-- Mouseover / mouseout  -->
+
+    <h2 onmouseover="mouseOverExample()" onmouseout="mouseOutExample()" >heading 2</h2>
+
+    <!-- keydown/keyup/keypress -->
+
+    <input type="text"  onkeypress="keyPressExample()" onkeyup="keyUpExample()" placeholder="enter your name ">
+    <!-- onchange -->
+    <input type="text" name="" id="" onchange="onChangeExample()">
+    <!-- onSubmit  -->
+<br><br>
+    <form action="" onsubmit="submit()">
+        <label >email:
+            <input type="email" placeholder="enter your email">
+            <button >submit</button>
+        </label>
+    </form>
+    <!-- Event Propagation (bubbling and capturing)  -->
+
+    <div>
+        <div id="div1">
+            <div id="div2"> 
+                <div id="div3">div 3</div>
+            </div>
+        </div>
+    </div>
+
+    <button id="btnEvent">click me </button>
+    <button id="setIntervalExample">set Interval example</button>
+
+
+    <form onsubmit="formSubmit()" action="">
+        <input type="email" placeholder="enter your email">
+        <input type="password" placeholder="enter your password">
+        <button>submit</button>
+    </form>
+
+    <script src="script10.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+

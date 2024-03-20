@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+    
+ </head>
+ <body>
+ 
+ 
+   
+ 
+ 
+   <script src="./script.js"></script>
+ </body>
+ </html>
+ // var lName = "ali";
+ // const fatherName = "ayub"
+ 
+ // console.log(name);
+ // console.log(lName);
+ // console.log(fatherName);
+ 
+ 
+ 
+ let  name = "mubarak";
+  name = "ALi"
+ console.log(name);
+ 
+ var lName = "jamal";
+ var lName = "John";
+ console.log(lName);
+ 
+ 
+ // const 
+ 
+ const name1 = "zoqi";
+ // name1 = "ALi"
+ 
+ // const name1 = "fahad"; 
+ console.log(name1);

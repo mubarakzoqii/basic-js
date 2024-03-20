@@ -1,0 +1,14 @@
+// 1. length(property):
+// Definition: Returns the number of elements in the array.
+// Array Methods:
+// 1. concat():
+// Definition: Joins two or more arrays and returns a new array.
+// 2. push():
+// Definition: Adds one or more elements to the end of an array and returns the new length of the array.
+// 3. pop():
+// Definition: Removes the last element from an array and returns that element.
+// 4. shift():
+// Definition: Removes the first element from an array and returns that element.
+
+
+

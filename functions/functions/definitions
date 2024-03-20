@@ -1,0 +1,14 @@
+Functions are blocks of code that perform a specific task. They help organize code by breaking it into smaller,
+ reusable parts. They take input, process it, and return a result.
+
+Function Declaration: It's like announcing a task. You define what the function will do, giving it a name and specifying 
+what it needs to work.
+
+Function Expressions: This is like a function that's also a value. You can create it and assign it to a variable, 
+making it super flexible. It's like saying, "Here's something that does a job, and I can use it wherever I need."
+
+Function Parameters and Arguments: Think of parameters like variables inside a function. They're like placeholders waiting for values. When you call the function and put values in those placeholders, those values are called arguments. It's like giving specific information for the function to work on.
+
+Return Statement: It's like the answer you get after doing a task. When a function finishes its job, 
+it can give you something back. The return statement sends that value back to where the function was called. 
+It's like getting the result after the function does its thing.
